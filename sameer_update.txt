@@ -9,5 +9,15 @@ step to clone this task in your pc
 //etna hone ke bad (node_mudule) ka folder install karna hai
 1)cd Hariman
 2)npm install
+
 3)npm start
 etna hone ke baad project start ho  jayega
+
+Than create your Branch
+1)git branch (Your name add)  
+  exmple= git branch kailash
+
+go to your branch
+1) git checkout kailash
+
+uske baad kuch bhi chnages krke push kr dena code github pe
